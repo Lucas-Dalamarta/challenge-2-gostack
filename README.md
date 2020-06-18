@@ -8,14 +8,14 @@ O objetivo deste projeto é concluir o Desafio #2 do Bootcamp GoStack 12 da Rock
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/Lucas-Dalamarta/challenge-3-gostack">
+  <a href="https://github.com/Lucas-Dalamarta/challenge-2-gostack">
     <img alt="Stars" src="https://img.shields.io/github/stars/Lucas-Dalamarta/challenge-2-gostack">
   </a>
 </p>
 
 <p align="center">
-  <a href="#dart-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#open_file_folder-libs">Libs Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dart-desafio">O Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#open_file_folder-libs">Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-pre-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#floppy_disk-instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

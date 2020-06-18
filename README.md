@@ -14,7 +14,7 @@ O objetivo deste projeto é concluir o Desafio #2 do Bootcamp GoStack 12 da Rock
 </p>
 
 <p align="center">
-  <a href="#dart-desafio">O Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dart-desafio">Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#open_file_folder-libs">Libs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-recursos">Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-pre-requisitos">Pré-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -65,7 +65,7 @@ Os testes foram criados pela equipe rocketseat!
 
 ## :floppy_disk: Instalação:
 
-Após clonar o projeto, será necessário instalá-lo, ao rodar o comando:
+Após clonar o projeto, será necessário executar o comando:
 
 ```bash
 $ yarn
@@ -73,7 +73,7 @@ $ yarn
 
 ## :straight_ruler: Testes:
 
-Para rodar os testes, será necessário rodar o seguinte comando:
+Para rodar os testes, será necessário executar o comando:
 
 ```bash
 $ yarn test
@@ -81,7 +81,7 @@ $ yarn test
 
 ## :suspect: Back-end:
 
-Para iniciar a aplicação no [localhost](http://localhost:3333), deverá ser rodado o comando:
+Para iniciar a aplicação no [localhost](http://localhost:3333), será necessário executar o comando:
 
 ```bash
 $ yarn nodemon
